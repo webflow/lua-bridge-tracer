@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:focal
 
 WORKDIR /3rd_party
 
